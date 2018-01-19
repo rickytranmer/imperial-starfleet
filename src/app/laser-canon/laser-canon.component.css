@@ -1,0 +1,9 @@
+div {
+	background-color: red;
+	position: absolute;
+	left: 50vh;
+	bottom: 50vh;
+	width: 10vh;
+	height: 10vh;
+	margin-left: -5vh;
+}

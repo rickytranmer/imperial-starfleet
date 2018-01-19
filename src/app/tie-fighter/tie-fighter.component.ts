@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TieFighterComponent implements OnInit {
 
+	iterations = 5;
+
   constructor() { }
 
   ngOnInit() {
